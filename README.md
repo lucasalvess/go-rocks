@@ -28,7 +28,7 @@ $ docker-compose up --build
 Não é necessário baixar o repositorio para executar, com o docker instalado na maquina basta executar:
 
 ```sh
-$ docker run lucasalvess97/go-rocks:latest
+$ docker run lucasalvess97/fullcycle
 ```
 
 - image size 1.95MB 

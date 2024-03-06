@@ -3,7 +3,7 @@ version: '3'
 services:
   go-rocks:
     container_name: go-rocks
-    image: lucasalvess97/go-rocks
+    image: lucasalvess97/fullcycle
     build:
       context: .
       dockerfile: Dockerfile  
